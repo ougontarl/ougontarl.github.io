@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ougontarl.github.io/sitemap
+Sitemap: https://ougontarl.github.io/app/sitemap
+Sitemap: https://ougontarl.github.io/assets/sitemap
+Sitemap: https://ougontarl.github.io/css/sitemap
+Sitemap: https://ougontarl.github.io/includes/sitemap
+Sitemap: https://ougontarl.github.io/item/sitemap
+Sitemap: https://ougontarl.github.io/src/sitemap
